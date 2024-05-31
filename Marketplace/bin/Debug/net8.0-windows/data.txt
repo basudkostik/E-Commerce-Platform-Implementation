@@ -1,0 +1,13 @@
+9,Object11,96,9
+2,Objecttt,11,7
+9,Type9,0,0
+10,Object9,95,9
+9,Blood,0,0
+101,Product101,6,9
+9,9,0,0
+102,Product102,6.5,9
+9,Jojo,0,0
+9,JOJO2,0,0
+9,Jojo,0,0
+9,Jojo,0,0
+9,HAHA,0,0

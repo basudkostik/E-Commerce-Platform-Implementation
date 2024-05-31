@@ -1,0 +1,96 @@
+Computers,Dell,Inspiron,10,700.00,High performance laptop with Intel i7.
+Computers,HP,Pavilion,5,650.00,Laptop with AMD Ryzen 5 processor.
+Computers,Apple,MacBook Air,8,1000.00,Lightweight laptop with M1 chip.
+Computers,Asus,VivoBook,15,550.00,Budget laptop with Intel i3.
+Computers,Lenovo,ThinkPad,20,800.00,Durable laptop for business use.
+Computers,Acer,Aspire,12,600.00,Affordable laptop with Intel i5.
+HomeAppliances,LG,Refrigerator,7,1200.00,Double door refrigerator with smart features.
+HomeAppliances,Samsung,Microwave,25,150.00,Microwave oven with grill function.
+HomeAppliances,Bosch,Washing Machine,10,500.00,Front load washing machine.
+HomeAppliances,Philips,Blender,30,50.00,High-speed blender with multiple settings.
+HomeAppliances,Panasonic,Vacuum Cleaner,15,200.00,Powerful vacuum cleaner with HEPA filter.
+HomeAppliances,Whirlpool,Air Conditioner,5,900.00,Energy-efficient split AC.
+Clothing,Nike,T-Shirt,50,25.00,Cotton t-shirt in various sizes.
+Clothing,Adidas,Sneakers,20,75.00,Comfortable running shoes.
+Clothing,Levis,Jeans,30,40.00,Denim jeans available in multiple sizes.
+Clothing,Under Armour,Hoodie,15,60.00,Warm hoodie for winter.
+Clothing,Puma,Shorts,25,30.00,Sports shorts for running and gym.
+Clothing,Columbia,Jacket,10,100.00,Waterproof jacket for outdoor activities.
+Stationery_Office,Staples,Notebook,100,5.00,College ruled notebook with 100 pages.
+Stationery_Office,Pilot,Pen,200,2.00,Gel pen with smooth writing.
+Stationery_Office,Canon,Printer,8,150.00,All-in-one inkjet printer.
+Stationery_Office,3M,Sticky Notes,150,3.00,Sticky notes in various colors.
+Stationery_Office,Bic,Pencil,300,0.50,Mechanical pencil with replaceable leads.
+Stationery_Office,Brother,Label Maker,5,80.00,Label maker with multiple fonts.
+Hardware,DeWalt,Drill,10,200.00,Cordless drill with rechargeable battery.
+Hardware,Bosch,Hammer,50,15.00,Ergonomic hammer with shock absorption.
+Hardware,Black+Decker,Saw,8,100.00,Electric saw for precision cutting.
+Hardware,Stanley,Tape Measure,75,10.00,25-foot tape measure.
+Hardware,Milwaukee,Wrench Set,20,50.00,Adjustable wrench set with multiple sizes.
+Hardware,Hitachi,Nail Gun,6,300.00,Pneumatic nail gun for construction.
+Garden,Husqvarna,Lawn Mower,7,400.00,Self-propelled lawn mower.
+Garden,Fiskars,Pruning Shears,30,25.00,Sharp pruning shears for gardening.
+Garden,Scotts,Fertilizer,50,15.00,Organic fertilizer for healthy plants.
+Garden,Black+Decker,Leaf Blower,10,150.00,Electric leaf blower with variable speed.
+Garden,Greenworks,Hedge Trimmer,12,100.00,Cordless hedge trimmer.
+Garden,Orbit,Watering Timer,20,30.00,Programmable watering timer.
+Textiles,IKEA,Curtains,25,40.00,Blackout curtains in various sizes.
+Textiles,Bed Bath & Beyond,Bed Sheets,30,60.00,Cotton bed sheets with high thread count.
+Textiles,Wayfair,Tablecloth,50,20.00,Decorative tablecloth for dining table.
+Textiles,Home Depot,Rug,15,100.00,Area rug with modern design.
+Textiles,Target,Towel Set,40,30.00,Soft towel set with multiple pieces.
+Textiles,Walmart,Blanket,20,50.00,Cozy blanket for winter.
+Food,Kellogg's,Cereal,100,3.00,Breakfast cereal with whole grains.
+Food,Pepsi,Soda,200,1.00,Can of soda with refreshing taste.
+Food,Nestle,Chocolate,150,2.00,Milk chocolate bar.
+Food,Heinz,Ketchup,50,3.00,Tomato ketchup bottle.
+Food,General Mills,Granola,80,4.00,Healthy granola for breakfast.
+Food,Lays,Chips,100,1.50,Pack of potato chips.
+Computers,Microsoft,Surface,7,900.00,Tablet with detachable keyboard.
+Computers,Alienware,Gaming Laptop,3,1500.00,High-end gaming laptop with RTX 3080.
+Computers,Asus,ROG,5,1400.00,Gaming laptop with advanced cooling system.
+Computers,Acer,Nitro,10,1100.00,Affordable gaming laptop.
+Computers,HP,OMEN,8,1300.00,Powerful gaming laptop.
+Computers,Razer,Blade,6,1600.00,Sleek gaming laptop with RGB keyboard.
+HomeAppliances,KitchenAid,Mixer,12,300.00,Stand mixer with multiple attachments.
+HomeAppliances,GE,Dishwasher,5,700.00,Energy-efficient dishwasher.
+HomeAppliances,Dyson,Air Purifier,10,400.00,Air purifier with HEPA filter.
+HomeAppliances,Instant Pot,Pressure Cooker,20,100.00,Multi-use pressure cooker.
+HomeAppliances,Nespresso,Coffee Machine,15,200.00,Coffee machine with capsules.
+HomeAppliances,Sony,TV,8,800.00,4K Ultra HD Smart TV.
+Clothing,Gap,Sweater,20,35.00,Wool sweater for winter.
+Clothing,H&M,Skirt,25,20.00,Casual skirt for everyday wear.
+Clothing,Zara,Dress,15,50.00,Stylish dress for special occasions.
+Clothing,Uniqlo,Leggings,30,25.00,Comfortable leggings for daily use.
+Clothing,North Face,Coat,10,150.00,Insulated coat for extreme weather.
+Clothing,Old Navy,Shirt,40,15.00,Casual shirt in various colors.
+Stationery_Office,Sharpie,Marker,100,1.50,Permanent marker with fine tip.
+Stationery_Office,Moleskine,Planner,20,25.00,Daily planner with hard cover.
+Stationery_Office,Epson,Scanner,10,100.00,High-resolution scanner.
+Stationery_Office,Post-it,Flags,200,2.00,Sticky flags for marking pages.
+Stationery_Office,HP,Laptop Stand,30,50.00,Ergonomic laptop stand.
+Stationery_Office,Logitech,Mouse,50,25.00,Wireless mouse with ergonomic design.
+Hardware,CRAFTSMAN,Tool Box,10,100.00,Portable tool box with multiple compartments.
+Hardware,Porter-Cable,Compressor,5,250.00,Air compressor for pneumatic tools.
+Hardware,Irwin,Clamp,25,20.00,Quick-grip clamp for woodworking.
+Hardware,Klein Tools,Multimeter,15,50.00,Digital multimeter for electrical testing.
+Hardware,Metabo,Hammer Drill,8,180.00,Hammer drill with adjustable speed.
+Hardware,SKIL,Circular Saw,10,120.00,Circular saw with laser guide.
+Garden,Toro,Snow Blower,5,500.00,Electric snow blower.
+Garden,Makita,Chainsaw,8,300.00,Battery-powered chainsaw.
+Garden,Sun Joe,Pressure Washer,10,150.00,Electric pressure washer.
+Garden,Gardena,Garden Hose,30,40.00,Flexible garden hose with nozzle.
+Garden,EGO,Weed Trimmer,12,120.00,Cordless weed trimmer.
+Garden,Drip Depot,Drip Irrigation Kit,15,100.00,Complete drip irrigation kit.
+Textiles,Costco,Pillows,40,25.00,Memory foam pillows.
+Textiles,JCPenney,Bath Mat,30,20.00,Non-slip bath mat.
+Textiles,West Elm,Duvet Cover,20,70.00,Luxurious duvet cover.
+Textiles,CB2,Cushions,50,35.00,Decorative cushions for sofa.
+Textiles,Overstock,Mattress Protector,15,40.00,Waterproof mattress protector.
+Textiles,AmazonBasics,Shower Curtain,25,15.00,Shower curtain with hooks.
+Food,Coca-Cola,Soda,150,1.00,Can of soda.
+Food,Pringles,Chips,100,2.00,Pack of chips.
+Food,Kraft,Mac and Cheese,80,1.50,Box of macaroni and cheese.
+Food,Hershey's,Chocolate,120,1.50,Milk chocolate bar.
+Food,Campbell's,Soup,60,2.00,Can of soup.
+Food,Tropicana,Juice,50,3.00,Orange juice bottle.

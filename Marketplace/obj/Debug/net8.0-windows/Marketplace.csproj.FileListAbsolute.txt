@@ -1,0 +1,54 @@
+C:\Users\User\source\repos\Marketplace\obj\Debug\net8.0-windows\Marketplace.Form1.resources
+C:\Users\User\source\repos\Marketplace\obj\Debug\net8.0-windows\Marketplace.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Marketplace\obj\Debug\net8.0-windows\Marketplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Marketplace\obj\Debug\net8.0-windows\Marketplace.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Marketplace\obj\Debug\net8.0-windows\Marketplace.AssemblyInfo.cs
+C:\Users\User\source\repos\Marketplace\obj\Debug\net8.0-windows\Marketplace.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Marketplace\bin\Debug\net8.0-windows\Marketplace.exe
+C:\Users\User\source\repos\Marketplace\bin\Debug\net8.0-windows\Marketplace.deps.json
+C:\Users\User\source\repos\Marketplace\bin\Debug\net8.0-windows\Marketplace.runtimeconfig.json
+C:\Users\User\source\repos\Marketplace\bin\Debug\net8.0-windows\Marketplace.dll
+C:\Users\User\source\repos\Marketplace\bin\Debug\net8.0-windows\Marketplace.pdb
+C:\Users\User\source\repos\Marketplace\obj\Debug\net8.0-windows\Marketplace.dll
+C:\Users\User\source\repos\Marketplace\obj\Debug\net8.0-windows\refint\Marketplace.dll
+C:\Users\User\source\repos\Marketplace\obj\Debug\net8.0-windows\Marketplace.pdb
+C:\Users\User\source\repos\Marketplace\obj\Debug\net8.0-windows\Marketplace.genruntimeconfig.cache
+C:\Users\User\source\repos\Marketplace\obj\Debug\net8.0-windows\ref\Marketplace.dll
+C:\Users\User\source\repos\Marketplace\obj\Debug\net8.0-windows\Marketplace.FirstEnterForm.resources
+C:\Users\User\source\repos\Marketplace\obj\Debug\net8.0-windows\Marketplace.SecondEnterForm.resources
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\bin\Debug\net8.0-windows\Marketplace.exe
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\bin\Debug\net8.0-windows\Marketplace.deps.json
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\bin\Debug\net8.0-windows\Marketplace.runtimeconfig.json
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\bin\Debug\net8.0-windows\Marketplace.dll
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\bin\Debug\net8.0-windows\Marketplace.pdb
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\obj\Debug\net8.0-windows\Marketplace.FirstEnterForm.resources
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\obj\Debug\net8.0-windows\Marketplace.Form1.resources
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\obj\Debug\net8.0-windows\Marketplace.SecondEnterForm.resources
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\obj\Debug\net8.0-windows\Marketplace.csproj.GenerateResource.cache
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\obj\Debug\net8.0-windows\Marketplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\obj\Debug\net8.0-windows\Marketplace.AssemblyInfoInputs.cache
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\obj\Debug\net8.0-windows\Marketplace.AssemblyInfo.cs
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\obj\Debug\net8.0-windows\Marketplace.csproj.CoreCompileInputs.cache
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\obj\Debug\net8.0-windows\Marketplace.dll
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\obj\Debug\net8.0-windows\refint\Marketplace.dll
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\obj\Debug\net8.0-windows\Marketplace.pdb
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\obj\Debug\net8.0-windows\Marketplace.genruntimeconfig.cache
+C:\Users\turka\OneDrive\Masaüstü\Marketplace (2)\Marketplace\obj\Debug\net8.0-windows\ref\Marketplace.dll
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\bin\Debug\net8.0-windows\Marketplace.exe
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\bin\Debug\net8.0-windows\Marketplace.deps.json
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\bin\Debug\net8.0-windows\Marketplace.runtimeconfig.json
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\bin\Debug\net8.0-windows\Marketplace.dll
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\bin\Debug\net8.0-windows\Marketplace.pdb
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\obj\Debug\net8.0-windows\Marketplace.FirstEnterForm.resources
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\obj\Debug\net8.0-windows\Marketplace.Form1.resources
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\obj\Debug\net8.0-windows\Marketplace.SecondEnterForm.resources
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\obj\Debug\net8.0-windows\Marketplace.csproj.GenerateResource.cache
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\obj\Debug\net8.0-windows\Marketplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\obj\Debug\net8.0-windows\Marketplace.AssemblyInfoInputs.cache
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\obj\Debug\net8.0-windows\Marketplace.AssemblyInfo.cs
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\obj\Debug\net8.0-windows\Marketplace.csproj.CoreCompileInputs.cache
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\obj\Debug\net8.0-windows\Marketplace.dll
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\obj\Debug\net8.0-windows\refint\Marketplace.dll
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\obj\Debug\net8.0-windows\Marketplace.pdb
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\obj\Debug\net8.0-windows\Marketplace.genruntimeconfig.cache
+C:\Users\turka\OneDrive\Masaüstü\baduman\Marketplace\obj\Debug\net8.0-windows\ref\Marketplace.dll
